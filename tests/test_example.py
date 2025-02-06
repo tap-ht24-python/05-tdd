@@ -1,7 +1,6 @@
 from src.example import subtract
 from src.example import compare_names
 
-
 def test_subtract__subtracts_correctly():
     #x = 10
     #y = 7
