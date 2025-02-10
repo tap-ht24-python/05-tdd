@@ -2,6 +2,8 @@
 # Drar ifrån y från x
 def subtract(x, y):
     return x - y
+    # pass hade också funkat
+    # raise Exception() hade också funkat
 
 
 def compare_names(input, name):
